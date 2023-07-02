@@ -1,5 +1,3 @@
-TY_MinorProject
-
 # NLP MADE FUN!!
 
 An NLP based webapp that can perform all the basic natural language processing tasks possible on any text.
@@ -14,7 +12,12 @@ This is a beginner-friendly webapp where you can explore more about NLP without 
 - Sentiment Analysis.
 - Text Summarization.
 
-<br>
+![NLP_web](https://github.com/urvimehta20/TY_MinorProject/assets/80567458/096873cb-3f6f-423e-9c2b-2c59be6248ab)
 
-#### *More functionalities like POS tagging, NER, ect will be added soon.. *
-<br>
+![NLP_tokenization](https://github.com/urvimehta20/TY_MinorProject/assets/80567458/a07f9e26-1b94-4dc9-82a0-7b8730b4569e)
+
+![NLP_sentiment](https://github.com/urvimehta20/TY_MinorProject/assets/80567458/0e33a610-38c7-4d34-87ed-5c31892239bd)
+
+![NLP_summarization](https://github.com/urvimehta20/TY_MinorProject/assets/80567458/c3c6c4da-788d-4c1d-afca-8a528f277d9c)
+
+#### More functionalities like POS tagging, NER, ect will be added soon.. 
