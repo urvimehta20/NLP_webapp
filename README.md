@@ -1,4 +1,4 @@
-# NLP MADE FUN!!
+# NLP Web App for Comprehensive Text Analysis
 
 An NLP based webapp that can perform all the basic natural language processing tasks possible on any text.
 
