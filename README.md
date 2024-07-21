@@ -11,8 +11,8 @@ This is a beginner-friendly webapp where you can explore more about NLP without 
 - Word Tokenization and Lemmatization.
 - Sentiment Analysis.
 - Text Summarization.
-
-![Alt text](snapshots\image.png)
+- 
+![image](https://github.com/user-attachments/assets/561f2c96-89d1-4916-a68a-80b6a13c6fff)
 
 ![NLP_tokenization](https://github.com/urvimehta20/TY_MinorProject/assets/80567458/a07f9e26-1b94-4dc9-82a0-7b8730b4569e)
 
